@@ -9,13 +9,11 @@
 [![NumPy](https://img.shields.io/badge/NumPy-Optimized-blue.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[English](#english) | [فارسی](#فارسی) | [中文](#中文)
-
 </div>
 
 ---
 
-<h2 id="english">🇬🇧 English</h2>
+## 🇬🇧 English
 
 ### 📖 Overview
 **NeuroLogic Py** is an interactive, graphical simulation tool built with Python and PyQt6. It explores the fundamentals of Deep Learning and Neural Networks by applying them to classic digital logic problems. The project consists of two main modules:
@@ -37,9 +35,15 @@ cd NeuroLogic-Py
 pip install numpy pyqt6 matplotlib
 python main.py
 
+
 ---
 
-<h2 id="فارسی">🇮🇷 فارسی</h2>
+### بخش دوم: فارسی (Persian)
+
+```markdown
+---
+
+## 🇮🇷 فارسی
 
 ### 📖 مرور کلی
 **NeuroLogic Py** یک ابزار شبیه‌سازی گرافیکی و تعاملی است که با استفاده از Python و PyQt6 توسعه یافته است. این پروژه اصول اولیه یادگیری عمیق و شبکه‌های عصبی را با اعمال آن‌ها بر روی مسائل کلاسیک منطق دیجیتال بررسی می‌کند. این پروژه شامل دو ماژول اصلی است:
@@ -55,16 +59,21 @@ python main.py
 * ⚙️ **پردازش چندنخی (Multithreading):** جلوگیری از فریز شدن رابط کاربری در حین آموزش شبکه.
 
 ### 🚀 نصب و اجرا
-
-bash
+```bash
 git clone https://github.com/yourusername/NeuroLogic-Py.git
 cd NeuroLogic-Py
 pip install numpy pyqt6 matplotlib
 python main.py
 
+
 ---
 
-<h2 id="中文">🇨🇳 中文 (Chinese)</h2>
+### بخش سوم: چینی (Chinese)
+
+```markdown
+---
+
+## 🇨🇳 中文 (Chinese)
 
 ### 📖 概述
 **NeuroLogic Py** 是一个使用 Python 和 PyQt6 构建的交互式图形仿真工具。它通过将深度学习和神经网络的基础知识应用于经典的数字逻辑问题来进行探索。该项目主要包含两个模块：
@@ -80,10 +89,8 @@ python main.py
 * ⚙️ **多线程:** 在网络训练期间保持 UI 的流畅和非阻塞。
 
 ### 🚀 安装与使用
-
-bash
+```bash
 git clone https://github.com/yourusername/NeuroLogic-Py.git
 cd NeuroLogic-Py
 pip install numpy pyqt6 matplotlib
 python main.py
-`
