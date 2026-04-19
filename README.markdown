@@ -55,6 +55,7 @@ python main.py
 * ⚙️ **پردازش چندنخی (Multithreading):** جلوگیری از فریز شدن رابط کاربری در حین آموزش شبکه.
 
 ### 🚀 نصب و اجرا
+
 bash
 git clone https://github.com/yourusername/NeuroLogic-Py.git
 cd NeuroLogic-Py
@@ -79,8 +80,10 @@ python main.py
 * ⚙️ **多线程:** 在网络训练期间保持 UI 的流畅和非阻塞。
 
 ### 🚀 安装与使用
+
 bash
 git clone https://github.com/yourusername/NeuroLogic-Py.git
 cd NeuroLogic-Py
 pip install numpy pyqt6 matplotlib
 python main.py
+`
